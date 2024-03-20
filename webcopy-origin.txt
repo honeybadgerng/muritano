@@ -1,0 +1,2612 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/0d2c621c92df33849e2fe622dcf75068.css?ver=75068
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\0d2c621c92df33849e2fe622dcf75068.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/1dda2fa25029d69f965066a41e2880ae.css?ver=880ae
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\1dda2fa25029d69f965066a41e2880ae.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/240ec13cfb708576df490691fb6a5ca4.css?ver=a5ca4
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\240ec13cfb708576df490691fb6a5ca4.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/3ba0037c9109a4703eb2f2b8143d895f.css?ver=d895f
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\3ba0037c9109a4703eb2f2b8143d895f.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/42042e7e3f9b61df7384bfcdfc440cec.css?ver=40cec
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\42042e7e3f9b61df7384bfcdfc440cec.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/4f617cd99f7dcf908e3cd25559b8bc2b.css?ver=8bc2b
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\4f617cd99f7dcf908e3cd25559b8bc2b.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/57f841864197c2ad857c8bad895aa399.css?ver=aa399
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\57f841864197c2ad857c8bad895aa399.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/891a79b9ef49bf20b112a2def208d3df.css?ver=8d3df
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\891a79b9ef49bf20b112a2def208d3df.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/8f9651019870f4370a9b349f7b8d1ccd.css?ver=d1ccd
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\8f9651019870f4370a9b349f7b8d1ccd.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/948a24d8a88889287d58213a3cd29f59.css?ver=29f59
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\948a24d8a88889287d58213a3cd29f59.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/c5867e23f5eb0ce36e011e5d05f1675d.css?ver=1675d
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\c5867e23f5eb0ce36e011e5d05f1675d.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/dba915475843e009378335c9716b7afb.css?ver=b7afb
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\dba915475843e009378335c9716b7afb.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/css/e2f3304440fb991e0bfa170147e84ee3.css?ver=84ee3
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\css\e2f3304440fb991e0bfa170147e84ee3.css
+Content Type: text/css
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/327d76436ce0a01434976cff1b147f50.js?ver=47f50
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\327d76436ce0a01434976cff1b147f50.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/4f80ae3fae62b543dbec349a7d29f252.js?ver=9f252
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\4f80ae3fae62b543dbec349a7d29f252.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/56497c18348c3d44abb9b52c71d90b8e.js?ver=90b8e
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\56497c18348c3d44abb9b52c71d90b8e.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/56d99287f67faaff6baaa3e934dc6ffb.js?ver=c6ffb
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\56d99287f67faaff6baaa3e934dc6ffb.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/5921da68fe3fd9431ed025b3730f87ae.js?ver=f87ae
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\5921da68fe3fd9431ed025b3730f87ae.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/litespeed/js/5c3772c5e127108f6b2d184bf7a50556.js?ver=50556
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\litespeed\js\5c3772c5e127108f6b2d184bf7a50556.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=8.25.0
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\plugins\google-analytics-premium\assets\js\frontend-gtag.min.js
+Content Type: application/javascript
+
+Uri: https://blog.prestmit.com/blog/wp-content/themes/prest/img/app-store-btn.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\themes\prest\img\app-store-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/themes/prest/img/google-play-btn.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\themes\prest\img\google-play-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/themes/prest/img/menu-icon.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\themes\prest\img\menu-icon.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/themes/prest/img/sell-area-img.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\themes\prest\img\sell-area-img.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/15976778638_92a78b4dfb_b-150x96.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\15976778638_92a78b4dfb_b-150x96.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/15976778638_92a78b4dfb_b-768x489.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\15976778638_92a78b4dfb_b-768x489.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/15976778638_92a78b4dfb_b.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\15976778638_92a78b4dfb_b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/495029209-webbanner-i.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\495029209-webbanner-i.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/5dd83377fd9db22e506a0fb8.jpeg-1-2-1024x768.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\5dd83377fd9db22e506a0fb8.jpeg-1-2-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/5dd83377fd9db22e506a0fb8.jpeg-1-2-150x113.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\5dd83377fd9db22e506a0fb8.jpeg-1-2-150x113.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/5dd83377fd9db22e506a0fb8.jpeg-1-2-768x576.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\5dd83377fd9db22e506a0fb8.jpeg-1-2-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/5dd83377fd9db22e506a0fb8.jpeg-1-2.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\5dd83377fd9db22e506a0fb8.jpeg-1-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/sephora_100usd_173.jpeg-150x104.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\sephora_100usd_173.jpeg-150x104.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/02/sephora_100usd_173.jpeg.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\sephora_100usd_173.jpeg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Blog-16.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Blog-16.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Blog-17.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Blog-17.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.12.34-1024x140.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.12.34-1024x140.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.12.34-300x41.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.12.34-300x41.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.12.34-768x105.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.12.34-768x105.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.12.34.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.12.34-1.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.13.00-1024x142.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.13.00-1024x142.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.13.00-300x42.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.13.00-300x42.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.13.00-768x106.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.13.00-768x106.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.13.00.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.13.00-1.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.20-1024x579.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.20-1024x579.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.20-150x85.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.20-150x85.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.20-1536x869.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.20-1536x869.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.20-2048x1158.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.20-2048x1158.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.20-768x434.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.20-768x434.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.41-150x150.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.41-150x150.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.41-300x300.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.41-300x300.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.41-768x770.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.41-768x770.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2024-02-11-at-17.09.41.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2024-02-11-at-17.09.41.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/07/164.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\07\164.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/07/Blog-Post-10.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\07\Blog-Post-10.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/12/Blog-Post-11.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\12\Blog-Post-11.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2021/12/WebBanner-130.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\12\WebBanner-130.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2022/01/WebBanner-129.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2022\01\WebBanner-129.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2022/03/WebBanner-128.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2022\03\WebBanner-128.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/10/2-3d-bookformatting-ebook-design-layout-typesetting-kindle-pdf-bookcover-publishong-isbn-1.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\2-3d-bookformatting-ebook-design-layout-typesetting-kindle-pdf-bookcover-publishong-isbn-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/10/cropped-Website-Favicons-180x180.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\cropped-Website-Favicons-180x180.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/10/cropped-Website-Favicons-192x192.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\cropped-Website-Favicons-192x192.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/10/cropped-Website-Favicons-32x32.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\cropped-Website-Favicons-32x32.png
+Content Type: image/png
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/10/Main-Logo.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\Main-Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/airtime.d2b7fdde.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\airtime.d2b7fdde.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/bet.5342d129.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\bet.5342d129.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/bnb.7a1f293d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\bnb.7a1f293d.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/btc.9f3f5aef.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\btc.9f3f5aef.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/buy-card.5e2c287b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\buy-card.5e2c287b.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/data.a430c30a.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\data.a430c30a.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/dev.9e8bd76d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\dev.9e8bd76d.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/electricity.8eea05e5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\electricity.8eea05e5.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/eth.3f804653.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\eth.3f804653.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/ltc.65761e95.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\ltc.65761e95.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/promo-code.dcc6e036.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\promo-code.dcc6e036.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/rate.1e4a6722.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\rate.1e4a6722.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/sell-card.97539d28.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\sell-card.97539d28.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/support.c112a667.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\support.c112a667.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/trc.3bab0c88.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\trc.3bab0c88.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/tv.cb3c4925.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\tv.cb3c4925.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2023/11/usdt.640a8ee6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\usdt.640a8ee6.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/01/205-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\01\205-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/01/Blog-Post-10.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\01\Blog-Post-10.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/01/IMG_4183.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\01\IMG_4183.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/206-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\206-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/208-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\208-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/211-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\211-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/212-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\212-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/213-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\213-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-11.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-11.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-12-1.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-13.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-13.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-14.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-14.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-5.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-6.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-7.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-7.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-8.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-8.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/Blog-Post-9.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\Blog-Post-9.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/02/doge.674651f5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\02\doge.674651f5.svg
+Content Type: image/svg+xml
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/214-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\214-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/215-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\215-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/217-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\217-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/218-Blog-Post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\218-Blog-Post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/219_-_blog_post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\219_-_blog_post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/220_-_blog_post.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\220_-_blog_post.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/wp-content/uploads/2024/03/221_-_blog_post-1.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2024\03\221_-_blog_post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.prestmit.com/blog/xmlrpc.php?rsd
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\css2
+Content Type: text/css
+
+Uri: https://prestmit.com/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/airtime-to-cash
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\airtime-to-cash
+Content Type: text/html
+
+Uri: https://prestmit.com/all-pages
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\all-pages
+Content Type: text/html
+
+Uri: https://prestmit.com/amazon
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\amazon
+Content Type: text/html
+
+Uri: https://prestmit.com/amex
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\amex
+Content Type: text/html
+
+Uri: https://prestmit.com/apple
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\apple
+Content Type: text/html
+
+Uri: https://prestmit.com/bitcoin-ghana-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bitcoin-ghana-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/bitcoin-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bitcoin-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/bitcoin-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bitcoin-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/bitcoins
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bitcoins
+Content Type: text/html
+
+Uri: https://prestmit.com/blog
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog.html
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/10-gift-cards-buy-kroger-year/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\10-gift-cards-buy-kroger-year\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/10-gift-cards-to-buy-at-dollar-general/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\10-gift-cards-to-buy-at-dollar-general\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/10-gift-cards-to-buy-at-walgreens/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\10-gift-cards-to-buy-at-walgreens\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/5-common-gift-card-scam-tactics-you-should-know/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\5-common-gift-card-scam-tactics-you-should-know\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/5-factors-that-determine-bitcoin-rate/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\5-factors-that-determine-bitcoin-rate\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/5-gift-cards-for-teenagers/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\5-gift-cards-for-teenagers\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/add-money-venmo-bank-account/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\add-money-venmo-bank-account\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/all-you-need-know-about-apple-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\all-you-need-know-about-apple-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/all-you-need-know-about-ebay-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\all-you-need-know-about-ebay-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/all-you-need-to-know-about-google-play-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\all-you-need-to-know-about-google-play-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/author/prestmit/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\author\prestmit\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/best-site-to-redeem-gift-cards-in-nigeria-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\best-site-to-redeem-gift-cards-in-nigeria-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/bitcoin-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\bitcoin-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/bitcoin-halving-2024-what-when-why/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\bitcoin-halving-2024-what-when-why\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/bitcoin-transaction-unconfirmed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\bitcoin-transaction-unconfirmed\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/blockchair-explorer/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\blockchair-explorer\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/bnb-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\bnb-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/buy-bitcoin-visa-card-canada/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\buy-bitcoin-visa-card-canada\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/buy-gift-cards-at-cvs-pharmacy/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\buy-gift-cards-at-cvs-pharmacy\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/airtime-to-cash/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\airtime-to-cash\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/altcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\altcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/bitcoins
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\bitcoins.html
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/bitcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\bitcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/bitcoins/page/2/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\bitcoins\page\2\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/bitcoins/page/27/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\bitcoins\page\27\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/crypto/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/crypto/altcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\altcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/crypto/bitcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\bitcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/crypto/bitcoins/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\bitcoins\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/category/crypto/bitcoins/page/2/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\bitcoins\page\2\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/crypto/usdt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\crypto\usdt\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/finance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\finance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/general/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\general\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/gift-cards/balance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\balance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/gift-cards/balance/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\balance\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/category/gift-cards/balance/page/2/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\balance\page\2\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/gift-cards/balance/page/3/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\balance\page\3\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/gift-cards/gift-card-errors/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\gift-cards\gift-card-errors\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/make-money-online/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\make-money-online\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/news/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\news\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/nfts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\nfts\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/refill/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\refill\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/refill/airtime-to-cash/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\refill\airtime-to-cash\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/technology/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\technology\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/usdt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\usdt\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/web3/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\web3\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/category/web3/nfts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\category\web3\nfts\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/crypto-guide-beginners-pdf-ebook/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\crypto-guide-beginners-pdf-ebook\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/crypto-guide-beginners-pdf-ebook/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\crypto-guide-beginners-pdf-ebook\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/difference-between-amazon-cash-receipt-debit-receipt-and-activation-receipt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\difference-between-amazon-cash-receipt-debit-receipt-and-activation-receipt\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/different-pictures-of-google-play-card-and-how-identify-them/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\different-pictures-of-google-play-card-and-how-identify-them\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/does-amazon-com-accept-visa-gift-cards-as-payment/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\does-amazon-com-accept-visa-gift-cards-as-payment\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/dogecoin-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\dogecoin-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/e-code-gift-cards-what-are-they-and-how-do-they-work/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\e-code-gift-cards-what-are-they-and-how-do-they-work\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/ethereum-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\ethereum-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/exchange-target-gift-card-for-mobile-money/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\exchange-target-gift-card-for-mobile-money\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/gift-card-frequently-asked-questions-2021/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\gift-card-frequently-asked-questions-2021\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-can-i-check-balance-of-each-of-the-top-10-gift-cards-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-can-i-check-balance-of-each-of-the-top-10-gift-cards-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-create-bitcoin-address-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-create-bitcoin-address-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-100-chf-switzerland-steam-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-100-chf-switzerland-steam-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-100-razer-gold-gift-card-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-100-razer-gold-gift-card-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-20-usd-steam-gift-card-naira/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-20-usd-steam-gift-card-naira\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-a-100-itunes-gift-card-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-a-100-itunes-gift-card-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-razer-gold-gift-card-100-to-naira/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-razer-gold-gift-card-100-to-naira\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-much-is-steam-gift-card-rate-in-nigeria-today
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-much-is-steam-gift-card-rate-in-nigeria-today.html
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-sell-bitcoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-sell-bitcoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-sell-bitcoin/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-sell-bitcoin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/how-sell-gift-cards
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-sell-gift-cards.html
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-sell-gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-sell-gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-sell-gift-cards/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-sell-gift-cards\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/how-to-buy-games-on-steam-with-a-steam-gift-card-a-complete-guide/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-buy-games-on-steam-with-a-steam-gift-card-a-complete-guide\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-buy-steam-card-online-in-nigeria-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-buy-steam-card-online-in-nigeria-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-calculate-network-fees-when-sending-cryptocurrency/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-calculate-network-fees-when-sending-cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-amazon-gift-card-balance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-amazon-gift-card-balance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-balance-on-nordstrom-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-balance-on-nordstrom-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-ebay-gift-card-balance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-ebay-gift-card-balance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-google-play-gift-card-balance-online/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-google-play-gift-card-balance-online\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-itunes-gift-card-balance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-itunes-gift-card-balance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-check-visa-gift-card-balance-in-ghana/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-check-visa-gift-card-balance-in-ghana\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-fix-google-play-gift-card-error/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-fix-google-play-gift-card-error\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-know-the-balance-on-a-walmart-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-know-the-balance-on-a-walmart-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-locate-bitcoin-atms-buy-sell-bitcoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-locate-bitcoin-atms-buy-sell-bitcoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-redeem-steam-gift-cards-on-steam/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-redeem-steam-gift-cards-on-steam\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-redeem-your-steam-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-redeem-your-steam-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-sell-an-amex-gift-card-in-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-sell-an-amex-gift-card-in-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-sell-bitcoins-from-bitcoin-atm-machine-on-prestmit/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-sell-bitcoins-from-bitcoin-atm-machine-on-prestmit\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-set-gift-card-rate-alerts-on-prestmit/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-set-gift-card-rate-alerts-on-prestmit\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-transfer-amazon-gift-card-balance-bank-account/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-transfer-amazon-gift-card-balance-bank-account\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-to-use-an-american-express-gift-card-for-online-purchases/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-to-use-an-american-express-gift-card-for-online-purchases\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/how-trade-steam-games/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\how-trade-steam-games\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/integrate-paystack-business/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\integrate-paystack-business\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/introducing-prestmit-promo-codes/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\introducing-prestmit-promo-codes\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/is-forsage-real-or-scam-quick-review/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\is-forsage-real-or-scam-quick-review\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/litecoin-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\litecoin-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/overview-of-footlocker-gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\overview-of-footlocker-gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/page/2/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/page/66/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\page\66\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/receive-paypal-payments-using-flutterwave/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\receive-paypal-payments-using-flutterwave\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sam-bankman-fried-background-career-conviction/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sam-bankman-fried-background-career-conviction\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sell-all-types-of-gift-cards-in-nigeria-and-ghana/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sell-all-types-of-gift-cards-in-nigeria-and-ghana\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sell-crypto-prestmit/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sell-crypto-prestmit\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sell-footlocker-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sell-footlocker-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sell-jc-penney-gift-card-in-nigeria-instantly/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sell-jc-penney-gift-card-in-nigeria-instantly\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/sell-sephora-gift-cards-for-cedis-in-ghana/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\sell-sephora-gift-cards-for-cedis-in-ghana\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/set-up-venmo-account-business/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\set-up-venmo-account-business\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/altcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\altcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/amazon/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\amazon\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/amex-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\amex-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/best-crypto-exchange-platform/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\best-crypto-exchange-platform\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/best-gift-cards-with-the-highest-rate/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\best-gift-cards-with-the-highest-rate\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/best-platform-to-sell-bitcoin-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\best-platform-to-sell-bitcoin-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/best-site-to-buy-and-sell-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\best-site-to-buy-and-sell-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/binance-coin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\binance-coin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/binance/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\binance\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoin-investment/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoin-investment\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoin-mining/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoin-mining\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoin-price/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoin-price\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoin-scams-to-avoid-in-2021/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoin-scams-to-avoid-in-2021\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/bitcoins/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\bitcoins\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/blockchain-technology/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\blockchain-technology\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/blockchain/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\blockchain\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/crypto-trading/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\crypto-trading\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/cryptocurrencies/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\cryptocurrencies\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/cryptocurrency/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/defi/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\defi\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/dogecoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\dogecoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/ethereum-blockchain/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\ethereum-blockchain\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/ethereum/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\ethereum\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/google-play-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\google-play-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/google-play-store/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\google-play-store\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/highest-gift-card-rates/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\highest-gift-card-rates\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/how-to-buy-and-sell-gift-cards-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\how-to-buy-and-sell-gift-cards-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/how-to-sell-bitcoin-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\how-to-sell-bitcoin-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/how-to-sell-bitcoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\how-to-sell-bitcoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/itunes-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\itunes-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/litecoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\litecoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/metaverse/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\metaverse\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/nfts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\nfts\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/paxful/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\paxful\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/sell-gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\sell-gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/shiba-inu/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\shiba-inu\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/solana/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\solana\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/steam-gift-card/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\steam-gift-card\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/steam-gift-cards/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\steam-gift-cards\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/tether/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\tether\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/top-gift-card-rates/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\top-gift-card-rates\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/tron/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\tron\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/usdt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\usdt\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/web3/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\web3\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/where-to-sell-bitcoin-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\where-to-sell-bitcoin-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/where-to-sell-gift-cards-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\where-to-sell-gift-cards-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tag/which-gift-card-has-the-highest-rate/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tag\which-gift-card-has-the-highest-rate\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-10-apps-to-sell-bitcoins-in-nigeria-right-now-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-10-apps-to-sell-bitcoins-in-nigeria-right-now-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-10-free-vpns-nigerians/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-10-free-vpns-nigerians\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-10-gift-cards-for-men-in-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-10-gift-cards-for-men-in-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-10-most-popular-types-of-gift-cards-spain/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-10-most-popular-types-of-gift-cards-spain\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-10-platforms-to-flip-airtime-to-cash-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-10-platforms-to-flip-airtime-to-cash-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-11-best-crypto-payment-gateways-business-year/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-11-best-crypto-payment-gateways-business-year\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-best-gift-card-trading-apps-in-nigeria-in-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-best-gift-card-trading-apps-in-nigeria-in-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-cryptocurrency-trading-platforms-ghana-2021/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-cryptocurrency-trading-platforms-ghana-2021\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-highest-gift-card-rates-in-nigeria
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-highest-gift-card-rates-in-nigeria.html
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-highest-gift-card-rates-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-highest-gift-card-rates-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-highest-gift-card-rates-in-nigeria/feed/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-highest-gift-card-rates-in-nigeria\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://prestmit.com/blog/top-5-reasons-why-people-want-to-trade-bitcoin/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-reasons-why-people-want-to-trade-bitcoin\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-sites-to-buy-gift-cards-online/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-sites-to-buy-gift-cards-online\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-5-steam-gift-card-scams-and-how-avoid-them/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-5-steam-gift-card-scams-and-how-avoid-them\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-7-android-wallets-to-store-gift-cards-tickets-more/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-7-android-wallets-to-store-gift-cards-tickets-more\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-9-best-online-payment-gateways-providers-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-9-best-online-payment-gateways-providers-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/top-online-shopping-gift-cards-in-2022/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\top-online-shopping-gift-cards-in-2022\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/tron-101/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\tron-101\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/types-of-amazon-gift-card-receipts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\types-of-amazon-gift-card-receipts\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/usdt/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\usdt\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/what-are-gift-cards-used-for-2/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\what-are-gift-cards-used-for-2\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/what-is-1-bitcoin-price-in-nigeria/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\what-is-1-bitcoin-price-in-nigeria\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/what-is-chime-and-how-does-it-work/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\what-is-chime-and-how-does-it-work\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/what-is-paystack-how-does-it-work/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\what-is-paystack-how-does-it-work\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/when-are-gift-cards-useful/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\when-are-gift-cards-useful\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/where-can-i-buy-an-amazon-gift-card-in-the-uk/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\where-can-i-buy-an-amazon-gift-card-in-the-uk\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/where-to-sell-google-play-gift-card-for-naira/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\where-to-sell-google-play-gift-card-for-naira\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/why-gift-cards-are-better-than-regular-gifts/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\why-gift-cards-are-better-than-regular-gifts\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/why-invest-in-bitcoin-2024/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\why-invest-in-bitcoin-2024\index.htm
+Content Type: text/html
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2021/02/15976778638_92a78b4dfb_b.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\15976778638_92a78b4dfb_b.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2021/02/5dd83377fd9db22e506a0fb8.jpeg-1-2.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\5dd83377fd9db22e506a0fb8.jpeg-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2021/02/sephora_100usd_173.jpeg.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\02\sephora_100usd_173.jpeg.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.12.34.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.12.34.png
+Content Type: image/png
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2021/04/Screenshot-2021-08-19-at-19.13.00.png
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2021\04\Screenshot-2021-08-19-at-19.13.00.png
+Content Type: image/png
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2023/04/prestmit-ad-banner.webp
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\04\prestmit-ad-banner.webp
+Content Type: image/webp
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2023/10/Logo-White.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\10\Logo-White.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/blog/wp-content/uploads/2023/11/7705305.jpg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-content\uploads\2023\11\7705305.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/blog/wp-json/
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/categories/311
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\categories\311
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/categories/6
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/posts/10496
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\posts\10496
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/posts/252
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\posts\252
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/posts/255
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\posts\255
+Content Type: application/json
+
+Uri: https://prestmit.com/blog/wp-json/wp/v2/posts/76
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\blog\wp-json\wp\v2\posts\76
+Content Type: application/json
+
+Uri: https://prestmit.com/bnb
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bnb
+Content Type: text/html
+
+Uri: https://prestmit.com/bnb-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bnb-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/bnb-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\bnb-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/buy-cheap-airtime
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\buy-cheap-airtime
+Content Type: text/html
+
+Uri: https://prestmit.com/buy-cheap-data
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\buy-cheap-data
+Content Type: text/html
+
+Uri: https://prestmit.com/buy-gift-card
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\buy-gift-card
+Content Type: text/html
+
+Uri: https://prestmit.com/cable-tv
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\cable-tv
+Content Type: text/html
+
+Uri: https://prestmit.com/cdn-cgi/l/email-protection
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://prestmit.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://prestmit.com/contact
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\contact
+Content Type: text/html
+
+Uri: https://prestmit.com/developers
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\developers
+Content Type: text/html
+
+Uri: https://prestmit.com/dogecoin
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\dogecoin
+Content Type: text/html
+
+Uri: https://prestmit.com/dogecoin-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\dogecoin-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/dogecoin-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\dogecoin-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/ebay
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\ebay
+Content Type: text/html
+
+Uri: https://prestmit.com/electricity-bills
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\electricity-bills
+Content Type: text/html
+
+Uri: https://prestmit.com/ethereum
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\ethereum
+Content Type: text/html
+
+Uri: https://prestmit.com/ethereum-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\ethereum-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/ethereum-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\ethereum-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/fund-betting-accounts
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\fund-betting-accounts
+Content Type: text/html
+
+Uri: https://prestmit.com/gift-cards-ghana-momo-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\gift-cards-ghana-momo-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/gift-cards-to-bitcoins
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\gift-cards-to-bitcoins
+Content Type: text/html
+
+Uri: https://prestmit.com/gift-cards-to-usdt
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\gift-cards-to-usdt
+Content Type: text/html
+
+Uri: https://prestmit.com/google-play
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\google-play
+Content Type: text/html
+
+Uri: https://prestmit.com/jobs
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\jobs
+Content Type: text/html
+
+Uri: https://prestmit.com/litecoin
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\litecoin
+Content Type: text/html
+
+Uri: https://prestmit.com/litecoin-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\litecoin-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/litecoin-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\litecoin-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/nike
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\nike
+Content Type: text/html
+
+Uri: https://prestmit.com/nordstrom
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\nordstrom
+Content Type: text/html
+
+Uri: https://prestmit.com/privacy
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\privacy
+Content Type: text/html
+
+Uri: https://prestmit.com/promo-codes
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\promo-codes
+Content Type: text/html
+
+Uri: https://prestmit.com/rates
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\rates
+Content Type: text/html
+
+Uri: https://prestmit.com/razer-gold
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\razer-gold
+Content Type: text/html
+
+Uri: https://prestmit.com/sell-gift-card
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\sell-gift-card
+Content Type: text/html
+
+Uri: https://prestmit.com/sephora
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\sephora
+Content Type: text/html
+
+Uri: https://prestmit.com/steam
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\steam
+Content Type: text/html
+
+Uri: https://prestmit.com/terms
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\terms
+Content Type: text/html
+
+Uri: https://prestmit.com/tron
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\tron
+Content Type: text/html
+
+Uri: https://prestmit.com/tron-price-cedis
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\tron-price-cedis
+Content Type: text/html
+
+Uri: https://prestmit.com/tron-price-naira
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\tron-price-naira
+Content Type: text/html
+
+Uri: https://prestmit.com/usdt
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\usdt
+Content Type: text/html
+
+Uri: https://prestmit.com/vanilla
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\vanilla
+Content Type: text/html
+
+Uri: https://prestmit.com/xbox
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\xbox
+Content Type: text/html
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fairtime-to-cash.865c8681.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\airtime-to-cash.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-banner.088f52bb.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amazon-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-img.a1460cc2.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amazon-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-img.a1460cc2.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amazon-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon.427664c2.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amazon.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon.427664c2.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amazon-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fambassador-promo.e3b0163c.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ambassador-promo-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fambassador-promo.e3b0163c.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ambassador-promo.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fambassador.e352ec33.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ambassador-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fambassador.e352ec33.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ambassador.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex-banner.8ec58c00.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex-img.b0f30a7c.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex-img.b0f30a7c.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex-mobile-banner.2c885a45.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex-mobile-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex.9fa59183.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famex.9fa59183.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\amex-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapp.12f473df.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\app.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-banner.ff9a1b2f.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-img.495a86f3.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-img.495a86f3.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple-mobile-banner.a1a71835.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple-mobile-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple.50bf547b.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapple.50bf547b.webp&w=828&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\apple-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbgweb.dba4b2f1.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bgweb.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbitcoin-banner.20c70620.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bitcoin-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbitcoin-mobile-banner.a9ed18cd.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bitcoin-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbitcoin-mobile-banner.a9ed18cd.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bitcoin-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbnb-banner.9dd9aa4d.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bnb-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbnb-wallet.9ea08bfc.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bnb-wallet-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbnb-wallet.9ea08bfc.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bnb-wallet.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbnb.577a0c00.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bnb.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbricks.a6ce53bb.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bricks-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbricks.a6ce53bb.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\bricks.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbriefcase.67f86f0c.png&w=256&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\briefcase-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbriefcase.67f86f0c.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\briefcase.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbtc-wallet.94bb57a0.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\btc-wallet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbtc-wallet.94bb57a0.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\btc-wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbuy-cheap-airtime.92eb71cb.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\buy-cheap-airtime.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbuy-cheap-data.5befdc33.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\buy-cheap-data.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcable.2611b12e.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\cable.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoupon.be6957d2.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\coupon-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoupon.be6957d2.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\coupon.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdev-frame.3d94a976.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\dev-frame-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdev-frame.3d94a976.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\dev-frame.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdevelopersConsole.6e746c9f.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\developersConsole-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdevelopersConsole.6e746c9f.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\developersConsole.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdevice-promo.30958362.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\device-promo-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdevice-promo.30958362.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\device-promo.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdoge-wallet.517ee93e.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\doge-wallet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdoge-wallet.517ee93e.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\doge-wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdogecoin-banner.5faab0e9.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\dogecoin-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdogecoin-mobile-banner.db4affa8.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\dogecoin-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdogecoin-mobile-banner.db4affa8.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\dogecoin-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay-banner.96dba6c9.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay-img.f1ace406.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay-img.f1ace406.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay-mobile-banner.6b1fd5b5.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay-mobile-banner.6b1fd5b5.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay.0da79bf8.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Febay.0da79bf8.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ebay-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Felectricity-bills.76b2fad7.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\electricity-bills.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feth-wallet.bb712478.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\eth-wallet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feth-wallet.bb712478.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\eth-wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fethereum-banner.f80ed163.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ethereum-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fethereum.d8177ba6.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ethereum.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexchange-app.a5a1c55c.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\exchange-app.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffund-bet.a0169c42.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\fund-bet.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiftcards-banner.7507f5c9.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\giftcards-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiftcards-mobile-banner.3a51ac85.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\giftcards-mobile-banner-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiftcards-mobile-banner.3a51ac85.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\giftcards-mobile-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogle-play-img.e8f0033d.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\google-play-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplay-banner.4e54d9a0.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\googleplay-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplay-mobile-banner.8e4e1f28.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\googleplay-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplay-mobile-banner.8e4e1f28.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\googleplay-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplay.6b0e4ab1.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\googleplay.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgoogleplay.6b0e4ab1.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\googleplay-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-img.99cd9fb6.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\hero-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-img.99cd9fb6.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\hero-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjobs-about-img.3619cdfa.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\jobs-about-img-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjobs-about-img.3619cdfa.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\jobs-about-img.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjobs-join-img.d3060968.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\jobs-join-img.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flitecoin-banner.b647f9db.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\litecoin-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flitecoin.b55d68d5.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\litecoin.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-app-app-store.34eff8fd.png&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-app-app-store.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-app-app-store.34eff8fd.png&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-app-app-store-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-app-google-play.8f8de764.png&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-app-google-play.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-app-google-play.8f8de764.png&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-app-google-play-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-bitcoin.a57b93dd.png&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-bitcoin.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-bitcoin.a57b93dd.png&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-bitcoin-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-business-insider.9c5cada7.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-business-insider-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-business-insider.9c5cada7.png&w=750&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-business-insider.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-msn.8318b3e0.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-msn-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-msn.8318b3e0.png&w=750&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-msn.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-punch.51fc4fc9.png&w=256&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-punch-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-punch.51fc4fc9.png&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-punch.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-tech-point.9fbc3c77.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-tech-point-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-tech-point.9fbc3c77.png&w=828&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-tech-point.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-tech-times.c6248b9c.png&w=256&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-tech-times-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-tech-times.c6248b9c.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-tech-times.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-transparent-x1.32db6a6b.png&w=384&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-transparent-x1-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-transparent-x1.32db6a6b.png&w=750&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\logo-transparent-x1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fltc-wallet.0b451cf6.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ltc-wallet-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fltc-wallet.0b451cf6.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\ltc-wallet.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnordstrom.8b3cfc1b.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\nordstrom.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnordstrom.8b3cfc1b.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\nordstrom-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplay.448bacbd.webp&w=256&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\play-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fplay.448bacbd.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\play.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frated.59a61415.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\rated-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frated.59a61415.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\rated.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazer-gold-banner.3bbef8ef.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razer-gold-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazer-gold-img.f163cbc3.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razer-gold-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazer-gold-img.f163cbc3.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razer-gold-img.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazergold-mobile-banner.ef9cad92.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razergold-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazergold-mobile-banner.ef9cad92.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razergold-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazergold.d00efef7.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razergold.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frazergold.d00efef7.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\razergold-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsephora.b54ae8d9.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\sephora.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsephora.b54ae8d9.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\sephora-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteam.5d5cb826.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\steam.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteam.5d5cb826.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\steam-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftron-banner.724d05b9.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\tron-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftron-mobile-banner.c3195f40.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\tron-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftron-mobile-banner.c3195f40.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\tron-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftron-wallet.4dc939e7.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\tron-wallet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftron-wallet.4dc939e7.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\tron-wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funbranded-banner.5a6d47a3.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\unbranded-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Funbranded-mobile-banner.e6e5ba64.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\unbranded-mobile-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fusdt-banner.fb0a39ff.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\usdt-banner.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fusdt-mobile-banner.a3ac4acd.webp&w=1080&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\usdt-mobile-banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fusdt-mobile-banner.a3ac4acd.webp&w=2048&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\usdt-mobile-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fusdt-wallet.c2a20ffc.webp&w=1920&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\usdt-wallet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fusdt-wallet.c2a20ffc.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\usdt-wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvanilla.5982926a.webp&w=1200&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\vanilla.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvanilla.5982926a.webp&w=640&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\vanilla-1.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvid-cover-img.c8b5c1fc.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\vid-cover-img.png
+Content Type: image/png
+
+Uri: https://prestmit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwallet.6953abf4.webp&w=3840&q=75
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://prestmit.com/_next/static/chunks/2522-e9c0153706d68a49.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\2522-e9c0153706d68a49.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/3258-4efca38e7c187d93.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\3258-4efca38e7c187d93.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/3853.3e5585a25b93e721.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\3853.3e5585a25b93e721.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/4264-a22aded79837790a.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\4264-a22aded79837790a.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/5948-b779c765485ff54e.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\5948-b779c765485ff54e.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/6357-09142b42771333e3.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\6357-09142b42771333e3.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/6442.59fc1f36a9fd2d03.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\6442.59fc1f36a9fd2d03.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/8703-9716888fdc2c9328.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\8703-9716888fdc2c9328.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/ee8b1517.1b3567f55df1c94c.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\ee8b1517.1b3567f55df1c94c.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/framework-3671d8951bf44e4e.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\framework-3671d8951bf44e4e.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/main-754f456e4536651e.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\main-754f456e4536651e.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/airtime-to-cash-fb609885fcfa712d.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\airtime-to-cash-fb609885fcfa712d.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/all-pages-0270ed34f38a2414.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\all-pages-0270ed34f38a2414.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/amazon-6406d2552ea14b17.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\amazon-6406d2552ea14b17.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/amex-d4f0884b0e9c210a.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\amex-d4f0884b0e9c210a.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/apple-ab376366cda627d1.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\apple-ab376366cda627d1.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/bitcoin-ghana-cedis-657fb67eee5b9762.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\bitcoin-ghana-cedis-657fb67eee5b9762.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/bitcoins-b13ed3bbb49ddad9.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\bitcoins-b13ed3bbb49ddad9.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/bnb-4a75631bd8715a70.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\bnb-4a75631bd8715a70.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/buy-cheap-airtime-eccfba66646c7dd0.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\buy-cheap-airtime-eccfba66646c7dd0.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/buy-cheap-data-05a136e54c281e4a.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\buy-cheap-data-05a136e54c281e4a.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/buy-gift-card-13a812367a0334f2.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\buy-gift-card-13a812367a0334f2.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/cable-tv-02185ff00dd15820.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\cable-tv-02185ff00dd15820.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/contact-ff06d4c34ae18170.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\contact-ff06d4c34ae18170.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/developers-b543e32a92a4d6b5.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\developers-b543e32a92a4d6b5.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/dogecoin-c4f961a9da65ca14.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\dogecoin-c4f961a9da65ca14.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/ebay-8bd06f23a694c734.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\ebay-8bd06f23a694c734.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/electricity-bills-cc0ff3343824d110.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\electricity-bills-cc0ff3343824d110.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/ethereum-b6704cf91e85711e.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\ethereum-b6704cf91e85711e.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/fund-betting-accounts-9f4ef8247b5f9b24.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\fund-betting-accounts-9f4ef8247b5f9b24.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/gift-cards-ghana-momo-cedis-44e66b668ab56ea0.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\gift-cards-ghana-momo-cedis-44e66b668ab56ea0.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/gift-cards-to-bitcoins-9f64f5cfa098a22c.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\gift-cards-to-bitcoins-9f64f5cfa098a22c.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/gift-cards-to-usdt-f76c82274f97bdc8.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\gift-cards-to-usdt-f76c82274f97bdc8.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/google-play-a589bd08cd2ea10c.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\google-play-a589bd08cd2ea10c.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/index-ea2f97420df8eaa9.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\index-ea2f97420df8eaa9.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/jobs-65a667ba2eb6cdfa.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\jobs-65a667ba2eb6cdfa.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/litecoin-d5e498cea4f65b0c.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\litecoin-d5e498cea4f65b0c.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/privacy-d6d3b31c51c5a830.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\privacy-d6d3b31c51c5a830.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/promo-codes-6cf392caf41b9efa.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\promo-codes-6cf392caf41b9efa.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/rates-f558e11cfdb6f89f.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\rates-f558e11cfdb6f89f.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/razer-gold-3d8b982018ab8677.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\razer-gold-3d8b982018ab8677.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/sell-gift-card-1da3ff15d4f45b90.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\sell-gift-card-1da3ff15d4f45b90.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/terms-3e63840eff106563.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\terms-3e63840eff106563.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/tron-750c13fb7a0ff049.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\tron-750c13fb7a0ff049.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/usdt-e5683add61dc20c7.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\usdt-e5683add61dc20c7.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/pages/_app-374033d85220aee5.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\pages\_app-374033d85220aee5.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/chunks/webpack-e782cb1468a189c2.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\chunks\webpack-e782cb1468a189c2.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/css/50185153c3d9372d.css
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\css\50185153c3d9372d.css
+Content Type: text/css
+
+Uri: https://prestmit.com/_next/static/media/accordion-plus.92f9ba99.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\accordion-plus.92f9ba99.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/airtime.d2b7fdde.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\airtime.d2b7fdde.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/amazon.3bb50ec7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\amazon.3bb50ec7.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-down-gray.e1f5fd06.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-down-gray.e1f5fd06.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-next.f06b5af4.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-next.f06b5af4.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-previous.e41091f6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-previous.e41091f6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-right-gray.9037700f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-right-gray.9037700f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-right-white.d681fde8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-right-white.d681fde8.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/arrow-right.07ca8dc0.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\arrow-right.07ca8dc0.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/avatar-f-1.35f0850a.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\avatar-f-1.35f0850a.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/avatar-m-1.efa685e9.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\avatar-m-1.efa685e9.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/avatar-m-2.a6e400b4.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\avatar-m-2.a6e400b4.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bars-left-sm.0c55aa90.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bars-left-sm.0c55aa90.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bars-left.316c29de.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bars-left.316c29de.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bars-right-sm.3f643a25.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bars-right-sm.3f643a25.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bars-right.b18650ca.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bars-right.b18650ca.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bet.5342d129.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bet.5342d129.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bills.e77ec8a2.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bills.e77ec8a2.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/binance.01d6873e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\binance.01d6873e.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bitcoin.75433ce6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bitcoin.75433ce6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/blog.d2d7c890.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\blog.d2d7c890.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bnb.7a1f293d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bnb.7a1f293d.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bnb.951ad5f8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bnb.951ad5f8.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/btc.9f3f5aef.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\btc.9f3f5aef.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/btc.e0ec70b8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\btc.e0ec70b8.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bullet-round-checked.936066fb.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bullet-round-checked.936066fb.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/bullet.775fda1c.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\bullet.775fda1c.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/buy-card.5e2c287b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\buy-card.5e2c287b.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/call.9d97288b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\call.9d97288b.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/close-hamburger.17eba8ca.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\close-hamburger.17eba8ca.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/close-white.fd999597.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\close-white.fd999597.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/cryptocurrencies.6031f99c.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\cryptocurrencies.6031f99c.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/data.a430c30a.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\data.a430c30a.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/dev.9e8bd76d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\dev.9e8bd76d.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/doge.674651f5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\doge.674651f5.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/doge.93247c45.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\doge.93247c45.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/dogecoin.8e0b022d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\dogecoin.8e0b022d.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/dropdownIcon.1395260f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\dropdownIcon.1395260f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/electricity.8eea05e5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\electricity.8eea05e5.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/email.4492672e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\email.4492672e.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/eth.3f804653.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\eth.3f804653.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/eth.e9230046.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\eth.e9230046.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/ethereum.907045b4.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\ethereum.907045b4.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/facebook-primary.949b15d6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\facebook-primary.949b15d6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/facebook.65689934.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\facebook.65689934.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/feature-sketch.91a969cf.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\feature-sketch.91a969cf.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/gift-cards.11867fbd.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\gift-cards.11867fbd.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/giftcard.5d2e2821.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\giftcard.5d2e2821.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/growth.8e5a4850.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\growth.8e5a4850.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/health.911a8388.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\health.911a8388.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/home.f8c6dfa0.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\home.f8c6dfa0.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/illustration-hero.45612882.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\illustration-hero.45612882.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/instagram-primary.7f8739a0.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\instagram-primary.7f8739a0.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/instagram.cdbef035.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\instagram.cdbef035.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/integration.44090f2b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\integration.44090f2b.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/linkedin-primary.294e782f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\linkedin-primary.294e782f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/linkedin.61b0b45e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\linkedin.61b0b45e.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/litecoin.09fffc71.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\litecoin.09fffc71.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/live-chat.47ca66f6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\live-chat.47ca66f6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-app-store-primary.1fbeae4f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-app-store-primary.1fbeae4f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-app-store.31d6c8fd.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-app-store.31d6c8fd.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-google-play-primary.eba6171f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-google-play-primary.eba6171f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-google-play.a61f1cf7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-google-play.a61f1cf7.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-prest-white.56ca1538.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-prest-white.56ca1538.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-prest.1dee5abc.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-prest.1dee5abc.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/logo-trustpilot.77dd522d.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\logo-trustpilot.77dd522d.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/ltc.65761e95.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\ltc.65761e95.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/ltc.a39af6da.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\ltc.a39af6da.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/mail.76ed13fe.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\mail.76ed13fe.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/more.d689b1a8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\more.d689b1a8.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/open-hamburger.57fc6790.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\open-hamburger.57fc6790.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/promo-code.dcc6e036.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\promo-code.dcc6e036.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/qrcode.3026719f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\qrcode.3026719f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/rate.1e4a6722.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\rate.1e4a6722.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/remote.b836ca12.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\remote.b836ca12.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/salary.ea1a700f.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\salary.ea1a700f.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/sell-card.97539d28.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\sell-card.97539d28.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/slash-divider.10cf9a5e.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\slash-divider.10cf9a5e.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/star.d468a880.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\star.d468a880.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/support.c112a667.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\support.c112a667.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/tether.b3dfd134.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\tether.b3dfd134.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/threads-primary.28c8d5f6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\threads-primary.28c8d5f6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/threads.cda230e5.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\threads.cda230e5.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/time.8d44bab8.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\time.8d44bab8.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/trc.3bab0c88.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\trc.3bab0c88.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/triangle-red.ec5fcb63.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\triangle-red.ec5fcb63.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/tron.ac9521e1.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\tron.ac9521e1.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/tron.e5b0b2e2.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\tron.e5b0b2e2.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/tv.cb3c4925.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\tv.cb3c4925.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/usdt.0c48daa7.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\usdt.0c48daa7.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/usdt.640a8ee6.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\usdt.640a8ee6.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/x-primary.e2d5367b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\x-primary.e2d5367b.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/x.56eaecf4.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\x.56eaecf4.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/youtube-primary.4b933060.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\youtube-primary.4b933060.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/media/youtube.d8154c6b.svg
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\media\youtube.d8154c6b.svg
+Content Type: image/svg+xml
+
+Uri: https://prestmit.com/_next/static/VF42D-BMzLpTiKA53qiwI/_buildManifest.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\VF42D-BMzLpTiKA53qiwI\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://prestmit.com/_next/static/VF42D-BMzLpTiKA53qiwI/_ssgManifest.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\_next\static\VF42D-BMzLpTiKA53qiwI\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://stats.wp.com/e-202412.js
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\e-202412.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-EKFZL5T46G
+File Name: C:\Users\Moshood\Desktop\gadget site samples\prestmit.com\gtag\js
+Content Type: application/javascript
+
